@@ -1,0 +1,20 @@
+{
+  "Server": {
+    "ip": "www.eqisan.com",
+    "tcp": 8224,
+    "vkey": "123",
+    "num": 1
+  },
+  "SiteList": [
+    {
+      "host": "www.eqisan.com",
+      "url": "127.0.0.1",
+      "port": 80
+    },
+    {
+      "host": "192.168.1.100",
+      "url": "127.0.0.1",
+      "port": 80
+    }
+  ]
+}
