@@ -92,3 +92,5 @@ port | 内网代理的地址对应的端口
 支持Windows、Linux、MacOSX等，无第三方依赖库。
 
 
+## 致谢
+https://github.com/cnlh/nps
